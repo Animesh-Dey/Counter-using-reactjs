@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(190, 175, 156);
+  display: flex;
+  justify-content: center;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  /* border: black solid 1px; */
+  align-items: center;
+}
